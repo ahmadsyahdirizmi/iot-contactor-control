@@ -79,6 +79,14 @@ The workflow involves several processes, including:
   - ⚪ **White:** Wi-Fi Manager mode indicates the system cannot connect to the target Wi-Fi.
 
 ## ✨ Project Features
+
+<p align="center">
+  <img src="https://github.com/ahmadsyahdirizmi/iot-contactor-control/blob/d2a2def4588204ed5ccee3901bdf0465732898b9/images/Alat%20Dengan%20Enclosure.png" width="500" alt="Device with Enclosure">
+</p>
+<p align="center">
+  <em>Figure 3: IoT Contactor Control Device with Enclosure</em>
+</p>
+
 1. **Control and Monitoring:**
    - The system can turn contactors on/off and monitor their status in real time.
 2. **Automation:**
@@ -94,7 +102,7 @@ The workflow involves several processes, including:
   <img src="https://github.com/ahmadsyahdirizmi/iot-contactor-control/blob/bdafd5aeedc052477e14e77f806ebba7537feca5/images/Dashboard%20Aplikasi%20Blynk%20Mobile.jpg" width="300" alt="Blynk Mobile Dashboard">
 </p>
 <p align="center">
-  <em>Figure 3: Blynk Mobile App Dashboard used to control and monitor the IoT-based contactor control system</em>
+  <em>Figure 4: Blynk Mobile App Dashboard used to control and monitor the IoT-based contactor control system</em>
 </p>
 
 - **Communication Protocol:** MQTT with port 8883 for encrypted data communication.
