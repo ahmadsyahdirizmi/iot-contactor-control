@@ -9,7 +9,7 @@ The IoT-Based Contactor Control System is designed to provide remote control and
 4. Integration with existing control systems without modification
 
 <p align="center">
-  <img src="https://github.com/ahmadsyahdirizmi/iot-contactor-control/blob/1b29349e94e1202c5205bd0dc61fcf1152e4ce79/images/Rangkaian%20Sistem%20Kontrol%20Kontaktor.png" width="700" alt="Contactor Control System Circuit">
+  <img src="https://github.com/ahmadsyahdirizmi/iot-contactor-control/blob/1b29349e94e1202c5205bd0dc61fcf1152e4ce79/images/Rangkaian%20Sistem%20Kontrol%20Kontaktor.png" width="500" alt="Contactor Control System Circuit">
 </p>
 <p align="center">
   <em>Figure 1: Original Contactor Control System Circuit showing the base system for integration</em>
@@ -61,7 +61,7 @@ The workflow involves several processes, including:
 
 ## 📝 Wiring Diagram
 <p align="center">
-  <img src="https://github.com/ahmadsyahdirizmi/iot-contactor-control/blob/1b29349e94e1202c5205bd0dc61fcf1152e4ce79/images/Wiring%20Diagram%20Alat.png" width="700" alt="System Wiring Diagram">
+  <img src="https://github.com/ahmadsyahdirizmi/iot-contactor-control/blob/1b29349e94e1202c5205bd0dc61fcf1152e4ce79/images/Wiring%20Diagram%20Alat.png" width="600" alt="System Wiring Diagram">
 </p>
 <p align="center">
   <em>Figure 2: Detailed Wiring Diagram showing connections between ESP32, relays, sensors, and other components</em>
@@ -89,6 +89,14 @@ The workflow involves several processes, including:
    - RGB LEDs provide status indicators.
 
 ### 📱 Dashboard on Blynk Mobile
+
+<p align="center">
+  <img src="https://github.com/ahmadsyahdirizmi/iot-contactor-control/blob/bdafd5aeedc052477e14e77f806ebba7537feca5/images/Dashboard%20Aplikasi%20Blynk%20Mobile.jpg" width="300" alt="Blynk Mobile Dashboard">
+</p>
+<p align="center">
+  <em>Figure 3: Blynk Mobile App Dashboard used to control and monitor the IoT-based contactor control system</em>
+</p>
+
 - **Communication Protocol:** MQTT with port 8883 for encrypted data communication.
 - **Features:**
   - Buttons to control contactors (ON/OFF and All ON/All OFF).
