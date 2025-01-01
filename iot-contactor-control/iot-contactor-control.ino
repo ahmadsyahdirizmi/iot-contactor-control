@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6tpG4wvsE" // Masukkan Template ID dari Blynk
-#define BLYNK_TEMPLATE_NAME "Quickstart Template" // Masukkan Template Name dari Blynk
-#define BLYNK_AUTH_TOKEN "R02GVIbevaC3xpZUjPCC7ipG_4QUBLdJ" // Masukkan Auth Token dari Blynk
+#define BLYNK_TEMPLATE_ID "" // Masukkan Template ID dari Blynk
+#define BLYNK_TEMPLATE_NAME "" // Masukkan Template Name dari Blynk
+#define BLYNK_AUTH_TOKEN "" // Masukkan Auth Token dari Blynk
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -24,8 +24,8 @@
 BlynkTimer timer;
 
 // Masukkan kredensial WiFi
-char ssid[] = "WINDOWS-S8O1B2H 2221";
-char pass[] = "11&2A7r8";
+char ssid[] = "";
+char pass[] = "";
 
 void setup() {
   Serial.begin(115200);
